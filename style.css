@@ -1,0 +1,29 @@
+h1{
+    color:aquamarine;
+}
+
+p{
+    color:#ffffff;
+}
+
+a{
+    text-decoration: none;
+    background: aquamarine; 
+}
+
+a:hover{
+    background-color: darkblue;
+    color: #ffffff;
+}
+
+body{
+    background-color: black;
+}
+
+ table{
+    font-family: Helvertica,sans-serif;
+    border-collapse: collapse;
+    border-width:1px;
+    border-style:solid;
+    border-color:#54BA0F;
+    background-color: aliceblue;
